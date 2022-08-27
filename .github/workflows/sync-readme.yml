@@ -20,4 +20,4 @@ jobs:
         pass: ${{ secrets.DOCKER_PASSWORD }}
         slug: ${{ secrets.DOCKER_USERNAME }}/imapfilter
         readme: ./README.md
-        description: Imapfilter Docker image, Alpine flavour.
+        description: imapfilter Docker image, Alpine flavour.
